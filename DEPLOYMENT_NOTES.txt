@@ -1,0 +1,15 @@
+DOLPHINBOT V2
+
+Added:
+- Section organization
+- Startup diagnostics
+- memory.json persistence scaffolding
+- Automatic user memory saving
+- Larger conversation history (50)
+- Retry configuration placeholder
+- Deployment-friendly structure
+
+Recommended next:
+- SQLite database
+- Health endpoint
+- Personality switching
